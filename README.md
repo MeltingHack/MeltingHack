@@ -1,4 +1,11 @@
-- 👋 Hi, We are @MeltingHack. 
+👋 Hi, Welcome to our page!
+We are @MeltingHack.
+
+Homepage: 
+Discord:
+X:
+LinkedIn:
+Instagram:
 
 <!---
 MeltingHack/MeltingHack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
